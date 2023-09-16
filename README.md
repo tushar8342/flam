@@ -10,30 +10,14 @@ Before you begin, ensure you have the following software installed on your machi
 
 ## Installation
 
-1. Clone the repository to your local machine:
-
-
-
-
-
-
-Node.js: Make sure you have Node.js installed. You can download it here.
-Installation
 Clone the repository to your local machine:
-
-
 git clone https://github.com/tushar8342/react-bottom-sheet.git
+
 Navigate to the project directory:
-
-
-cd react-bottom-sheet
+cd react-bottom-sheet </br>
 Install the project dependencies:
-
-
 npm install
 Start the development server:
-
-
 npm start
 Open your web browser and visit http://localhost:3000 to see the React Bottom Sheet in action.
 
